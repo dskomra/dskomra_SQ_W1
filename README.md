@@ -1,10 +1,10 @@
 Side Quest Week 1
 
 Setup and Interaction Instructions
-(How to run and play the file)
+Open 'index.html' in a new browser tab in Google Chrome.
 
 Assets
-(List and attribute all non-original assets.)
+`assets/images/exit8tiles.jpg` | by the Walkthrough King
 
 References
-(ACM-formatted references connected to in-text or code citations)
+N/A
