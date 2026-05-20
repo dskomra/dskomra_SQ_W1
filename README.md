@@ -7,4 +7,4 @@ Assets
 `assets/images/exit8tiles.jpg` | by the Walkthrough King
 
 References
-N/A
+[1] The Walkthrough King. 2024. Exit 8. Retrieved May 20, 2026 from https://www.walkthroughking.com/text/exit8.aspx
